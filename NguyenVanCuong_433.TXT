@@ -1,0 +1,4 @@
+HO VA TEN                     NGAY SINH           CCCD                HO KHAU             SO TIEN             THOI HAN            TIEN LAI            
+Nguyen Cuong                  20/2/2002            12345               Nam Dinh            120000              12                  7200                
+Tran Binh Trong               10/9/2001            45678               Ha Noi              750000              14                  52500               
+Luong Van Te                  29/1/1920            89123               Nam Dinh            350000              6                   10500               

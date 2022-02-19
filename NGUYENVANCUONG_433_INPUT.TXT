@@ -1,0 +1,25 @@
+4
+Nguyen Cuong
+20/02/2002
+035332
+Ninh Binh
+3000
+9 
+Nguyen Ba
+19/08/1996
+076456
+Nam Dinh
+6000
+12
+Nguyen Thanh Long
+01/12/2001
+045687
+Ha Noi
+2500
+5
+Nguyen Van Teo
+15/05/1919
+093342
+Ninh Binh
+4000
+15
